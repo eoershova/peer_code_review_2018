@@ -5,7 +5,7 @@
 
 import random
 
-dictionary = {}
+dictionary = {} # все функции видят этот словарь, он создается раз и навсегда
 
 
 def neededword():
